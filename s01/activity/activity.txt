@@ -1,0 +1,49 @@
+1. List the books Authored by the following authors:
+
+Johnson White 172-32-1176
+PC888: Secrets of Silicon Valley
+
+Dean Straight 274-80-9391
+BU7832: Straight Talk About Computers
+
+Marjorie Green 213-46-8915
+BU1032: The Busy Executive's Database Guide
+BU2075: You can Combat Computers
+
+Michael O'Leary 267-41-2394
+BU1111: Cooking with Computers
+MC3021: The Gourmet Microwave
+
+Ann Dull 427-17-2319
+PC8888: Secrets of Silicon Valley
+
+2. List the author/s of the following titles:
+
+The Busy Executive's Database Guide BU1032
+213-46-8915 Green Marjorie
+409-56-7008 Bennet Abraham
+
+Secrets of Silicon Valley PC8888
+427-17-2319 Dull Ann
+
+The Gourmet Microwave MC3021
+267-41-2349 O'Leary Michael
+
+3. List the books published by the following publishers:
+
+Algodata Infosystems 1389
+- The Busy Executive's Database Guide
+- Cooking with Computers
+- Staight Talk About Computers
+- But Is It User Friendly?
+-  Secrets of Silicon Valley
+- Net Etiquette
+
+New Moon Books 736
+- You can Combat Computer Stress!
+- Is Anger the Enemy?
+
+Binnet & Herdley 877
+- Silicon Valley Gastronomic Treats
+- The Gourmet Microwave
+- The Psychology of Computer Cooking
