@@ -1,0 +1,8 @@
+Importing classic-models-exports.sql in phpMyAdmin:
+1. Go to http://localhost/phpmyadmin/index.php?route=/server/import
+
+2. Click "Choose File" Button, look for the "classic-models-exports.sql" then click open.
+
+3. Make sure to untoggle the "Enable foreign key checks" under the "Other options" group.
+
+4. Click the import button and once done, check your database tab if the "classic_models" is added.
